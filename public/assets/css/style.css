@@ -1,0 +1,14 @@
+footer {
+    background-color: #353A3F;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    padding: 20px;
+    text-align: center;
+}
+
+.marco {
+    padding-top: 60px;
+    padding-left: 20px;
+}
